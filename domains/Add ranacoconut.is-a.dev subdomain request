@@ -1,0 +1,12 @@
+{
+  "domain": "ranacoconut.is-a.dev",
+  "subdomain": "ranacoconut",
+  "owner": {
+    "email": "ranayudistira46@gmail.com",
+    "github": "Ranayudistira7804pRojEctT"
+  },
+  "record": {
+    "CNAME": "Ranayudistira7804pRojEctT.github.io"
+  },
+  "proxied": true
+}
